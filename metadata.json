@@ -1,0 +1,6 @@
+{
+  "name": "ScholarHub - College Mini Bookstore & Resource Hub",
+  "description": "A full-stack academic bookstore and study resource hub for university students featuring curated CS textbooks, lecture notes, syllabus guides, PDF reader, and category filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
